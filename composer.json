@@ -1,5 +1,5 @@
 {
-	"name": "silverstripe/flowplayer",
+	"name": "sunnysideup/flowplayer",
 	"type": "silverstripe-module",
 	"description": "helps you to add a 'flow player' (video application) to your Silverstripe application",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
