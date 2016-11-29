@@ -3,8 +3,10 @@
     "type": "silverstripe-module",
     "description": "helps you to add a 'flow player' (video application) to your Silverstripe application",
     "keywords": [
-        "flowplayer",
-        "silverstripe"
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
+        "flowplayer"
     ],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors": [
@@ -16,6 +18,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "silverstripe/framework": "~2.4"
+        "silverstripe/framework": "~2.4",
+        "silverstripe/cms": "~2.4"
     }
 }
