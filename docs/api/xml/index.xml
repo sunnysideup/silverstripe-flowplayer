@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<index xmlns="http://xml.phpdox.net/src" basedir="/var/www/_modules/flowplayer/trunk">
-  <namespace name="">
-    <class name="FlowPlayer" src="code/FlowPlayer.php" description="author nicolaas [at] sunnysideup.co.nz" xml="classes/FlowPlayer.xml"/>
-  </namespace>
-</index>

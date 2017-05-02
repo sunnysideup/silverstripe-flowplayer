@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<source xmlns="http://xml.phpdox.net/src">
-  <dir name="/var/www/_modules/flowplayer/trunk">
-    <file name="_config.php" size="558" time="2015-03-14T10:22:21+13:00" unixtime="1426281741" sha1="9dd82aa646bfd96e7eaba2140b0a9bbb7cba1dd3" xml="tokens/_config.php.xml"/>
-    <dir name="code">
-      <file name="FlowPlayer.php" size="977" time="2015-03-14T10:22:21+13:00" unixtime="1426281741" sha1="4b7ddbaf33b61f72b908dd6defe491af35e2726e" xml="tokens/code/FlowPlayer.php.xml"/>
-    </dir>
-  </dir>
-</source>
